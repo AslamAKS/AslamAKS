@@ -7,7 +7,20 @@
   <h2>FullStack Developer</h2>
 </div>
 
-<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+```yaml
+* "NAME" : "ASLAM ALI K SALIM"
+  "Location" : "Ernakulam"
+  "Position" : "Full Stack Developer"
+  "Specified_Programing_Language" : "JavaScript"
+  "Educational_qualifications : [
+      "Masters in Computer Application",
+      "Graduate in Computer Application"
+    ]
+   *
+```
+
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="bash" width="45" height="45"/>
