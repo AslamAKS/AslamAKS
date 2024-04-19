@@ -8,15 +8,16 @@
 </div>
 
 ```yaml
-* "NAME" : "ASLAM ALI K SALIM"
-  "Location" : "Ernakulam"
-  "Position" : "Full Stack Developer"
-  "Specified_Programing_Language" : "JavaScript"
-  "Educational_qualifications : [
+"NAME" : "ASLAM ALI K SALIM"
+"Location" : "Ernakulam"
+"Position" : "Full Stack Developer"
+"Specified_Programing_Language" : "JavaScript"
+"Educational_qualifications : [
       "Masters in Computer Application",
       "Graduate in Computer Application"
     ]
-   *
+"Contact_email" : "aslamaksofficial@gmail.com"
+
 ```
 
 
